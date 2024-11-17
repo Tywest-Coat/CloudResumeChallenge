@@ -22,7 +22,7 @@ The HTML and CSS files were deployed to an **Amazon S3** bucket configured to ho
 I secured the website by integrating **Amazon CloudFront** with the S3 bucket to serve content over HTTPS. This improves security and ensures encrypted communication.
 
 ### **6. DNS**
-I registered a custom domain and pointed it to the CloudFront distribution using **Amazon Route 53**. My resume is now accessible at [your-custom-domain.com](http://your-custom-domain.com).
+I registered a custom domain and pointed it to the CloudFront distribution using **Amazon Route 53**. My resume is now accessible at [resume.tylerwestcoat.com](http://resume.tylerwestcoat.com).
 
 ### **7. JavaScript**
 I added a **visitor counter** to my resume page using **JavaScript**, which dynamically fetches and displays the number of visits.
