@@ -69,7 +69,7 @@ I implemented a **CI/CD pipeline** for the frontend using **GitHub Actions**:
 ---
 
 ## **How to Access**
-Visit my resume at [your-custom-domain.com](http://your-custom-domain.com).
+Visit my resume at [resume.tylerwestcoat.com](http://resume.tylerwestcoat.com).
 
 ---
 
